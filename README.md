@@ -25,10 +25,10 @@ Supported Commands
 Once the program is running, you can use these commands:
 
 
-1.INIT <n> Initialize the cache with capacity `n` 
-2.PLAY <song> Play a song and update the cache 
-3.SHOW_CACHE Display cache from MRU → LRU 
-4.EXIT Close the program 
+1. INIT <n> Initialize the cache with capacity `n` 
+2. PLAY <song> Play a song and update the cache 
+3. SHOW_CACHE Display cache from MRU → LRU 
+4. EXIT Close the program 
 
 
  How to Compile and Run
